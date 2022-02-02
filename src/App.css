@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.backNav{
+  background-color: #F1EFE8;
+  box-shadow: 1px 1px 2px  gray;
+}
+
+.logoMarseille {
+  font-size: 20px;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
